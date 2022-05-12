@@ -1,4 +1,4 @@
-package com.lsc.mabatisplus.entity;
+package com.lsc.mybatisplus.entity;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

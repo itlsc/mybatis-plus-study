@@ -1,8 +1,8 @@
-package com.lsc.mabatisplus.test;
+package com.lsc.mybatisplus.test;
 
-import com.lsc.mabatisplus.entity.User;
-import com.lsc.mabatisplus.mapper.UserMapper;
-import com.lsc.mabatisplus.service.IUserService;
+import com.lsc.mybatisplus.entity.User;
+import com.lsc.mybatisplus.mapper.UserMapper;
+import com.lsc.mybatisplus.service.IUserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,7 @@
-package com.lsc.mabatisplus.mapper;
+package com.lsc.mybatisplus.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.lsc.mabatisplus.entity.User;
+import com.lsc.mybatisplus.entity.User;
 
 /**
  * <p>

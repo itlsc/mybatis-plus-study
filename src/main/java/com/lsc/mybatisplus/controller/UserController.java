@@ -1,4 +1,4 @@
-package com.lsc.mabatisplus.controller;
+package com.lsc.mybatisplus.controller;
 
 
 import org.springframework.stereotype.Controller;

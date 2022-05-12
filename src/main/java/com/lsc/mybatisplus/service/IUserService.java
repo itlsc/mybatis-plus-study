@@ -1,7 +1,7 @@
-package com.lsc.mabatisplus.service;
+package com.lsc.mybatisplus.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.lsc.mabatisplus.entity.User;
+import com.lsc.mybatisplus.entity.User;
 
 /**
  * <p>

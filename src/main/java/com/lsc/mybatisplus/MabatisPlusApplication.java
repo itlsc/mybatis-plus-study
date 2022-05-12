@@ -1,4 +1,4 @@
-package com.lsc.mabatisplus;
+package com.lsc.mybatisplus;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
